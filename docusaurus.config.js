@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','pt-br'],
   },
 
   presets: [
@@ -86,12 +86,6 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          // {
-          //   type: 'guideSidebar',
-          //   sidebarId: 'guidesSidebar',
-          //   position: 'left',
-          //   label: 'Guides',
-          // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/GabrielBRS',
@@ -110,10 +104,6 @@ const config = {
                 label: 'Doc',
                 to: '/docs/intro',
               },
-              // {
-              //   label: 'Guia',
-              //   to: '/guides/intro',
-              // },
               {
                 label: 'Blog',
                 to: '/blog',

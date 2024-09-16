@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en','pt-br'],
+    locales: ['en'],
   },
 
   presets: [
@@ -113,10 +113,10 @@ const config = {
           {
             title: 'Comunidade',
             items: [
-              {
-                label: 'QConcursos',
-                href: 'https://www.qconcursos.com/usuario/perfil/concurseiro_f7d90298',
-              },
+              // {
+              //   label: 'QConcursos',
+              //   href: 'https://www.qconcursos.com/usuario/perfil/concurseiro_f7d90298',
+              // },
               {
                 label: 'LinkedIn',
                 href: 'https://www.linkedin.com/in/enggabrielbarros/',

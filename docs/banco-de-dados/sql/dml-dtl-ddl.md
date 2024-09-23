@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Configurações de Ambiente
+# DDL DML DTL
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 

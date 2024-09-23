@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Configurações de Ambiente
 
+O que são essas variáveis de ambiente? 
+
+São basicamente uma representação do diretório de instalação do **JDK (Java Development Kit)** e do [**Maven**](http://localhost:3000/docs/desenvolvimento/frameworks/spring/maven). Quando você os instala em sua máquina, ele cria um diretório inicial e coloca todos os arquivos necessários, inclusive os binários.
+
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 - `src/pages/index.js` → `localhost:3000/`
